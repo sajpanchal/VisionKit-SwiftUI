@@ -11,6 +11,7 @@
 		72675BC227207CDA00240BE3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72675BC127207CDA00240BE3 /* ContentView.swift */; };
 		72675BC427207CDB00240BE3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72675BC327207CDB00240BE3 /* Assets.xcassets */; };
 		72675BC727207CDB00240BE3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 72675BC627207CDB00240BE3 /* Preview Assets.xcassets */; };
+		72675BCE272080AF00240BE3 /* ScanDocumentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72675BCD272080AF00240BE3 /* ScanDocumentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		72675BC127207CDA00240BE3 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		72675BC327207CDB00240BE3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		72675BC627207CDB00240BE3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		72675BCD272080AF00240BE3 /* ScanDocumentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScanDocumentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				72675BBF27207CDA00240BE3 /* VisionKitAppApp.swift */,
 				72675BC127207CDA00240BE3 /* ContentView.swift */,
+				72675BCD272080AF00240BE3 /* ScanDocumentView.swift */,
 				72675BC327207CDB00240BE3 /* Assets.xcassets */,
 				72675BC527207CDB00240BE3 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				72675BC227207CDA00240BE3 /* ContentView.swift in Sources */,
+				72675BCE272080AF00240BE3 /* ScanDocumentView.swift in Sources */,
 				72675BC027207CDA00240BE3 /* VisionKitAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
